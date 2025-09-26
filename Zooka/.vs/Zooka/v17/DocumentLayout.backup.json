@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\luiz.hraraujo\\source\\repos\\Zooka\\Zooka\\Form1.cs",
               "RelativeDocumentMoniker": "Zooka\\Form1.cs",
-              "ToolTip": "C:\\Users\\luiz.hraraujo\\source\\repos\\Zooka\\Zooka\\Form1.cs [Design]",
-              "RelativeToolTip": "Zooka\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\luiz.hraraujo\\source\\repos\\Zooka\\Zooka\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Zooka\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-26T00:08:08.371Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Projeto]"
             }
           ]
         }

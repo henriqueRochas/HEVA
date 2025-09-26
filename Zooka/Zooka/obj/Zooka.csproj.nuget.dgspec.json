@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiz.hraraujo\\source\\repos\\Zooka\\Zooka\\Zooka.csproj": {}
+    "C:\\Users\\luiz.hraraujo\\OneDrive - SENAC - SP\\Documentos\\GitHub\\HEVA\\Zooka\\Zooka\\Zooka.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiz.hraraujo\\source\\repos\\Zooka\\Zooka\\Zooka.csproj": {
+    "C:\\Users\\luiz.hraraujo\\OneDrive - SENAC - SP\\Documentos\\GitHub\\HEVA\\Zooka\\Zooka\\Zooka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiz.hraraujo\\source\\repos\\Zooka\\Zooka\\Zooka.csproj",
+        "projectUniqueName": "C:\\Users\\luiz.hraraujo\\OneDrive - SENAC - SP\\Documentos\\GitHub\\HEVA\\Zooka\\Zooka\\Zooka.csproj",
         "projectName": "Zooka",
-        "projectPath": "C:\\Users\\luiz.hraraujo\\source\\repos\\Zooka\\Zooka\\Zooka.csproj",
+        "projectPath": "C:\\Users\\luiz.hraraujo\\OneDrive - SENAC - SP\\Documentos\\GitHub\\HEVA\\Zooka\\Zooka\\Zooka.csproj",
         "packagesPath": "C:\\Users\\luiz.hraraujo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiz.hraraujo\\source\\repos\\Zooka\\Zooka\\obj\\",
+        "outputPath": "C:\\Users\\luiz.hraraujo\\OneDrive - SENAC - SP\\Documentos\\GitHub\\HEVA\\Zooka\\Zooka\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
