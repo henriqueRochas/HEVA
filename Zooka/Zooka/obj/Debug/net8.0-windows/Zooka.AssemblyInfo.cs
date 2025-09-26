@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zooka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba85d8cdef433055f74c1e8f1211be5099a509c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a01b979bbc5c5affdc1a2434d7038fb98b4807f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zooka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zooka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
