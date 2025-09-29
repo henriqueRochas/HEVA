@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|c:\\users\\henri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\github\\heva\\zooka\\zooka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|solutionrelative:zooka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|c:\\users\\henri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\github\\heva\\zooka\\zooka\\usercontrolblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|solutionrelative:zooka\\usercontrolblank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|c:\\users\\henri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\github\\heva\\zooka\\zooka\\agendapet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|solutionrelative:zooka\\agendapet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|c:\\users\\henri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\github\\heva\\zooka\\zooka\\agendapet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|solutionrelative:zooka\\agendapet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|c:\\users\\henri\\onedrive\\\u00E1rea de trabalho\\estudos\\c#\\github\\heva\\zooka\\zooka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C0D769-6DF5-4646-9B4F-93082F2074B8}|Zooka\\Zooka.csproj|solutionrelative:zooka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,27 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlBlank.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\UserControlBlank.cs",
+              "RelativeDocumentMoniker": "Zooka\\UserControlBlank.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\UserControlBlank.cs [Projeto]",
+              "RelativeToolTip": "Zooka\\UserControlBlank.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:13:14.993Z",
+              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\Form1.cs",
-              "RelativeDocumentMoniker": "Zooka\\Form1.cs",
-              "ToolTip": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Zooka\\Form1.cs [Projeto]",
+              "DocumentIndex": 2,
+              "Title": "AgendaPet.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\AgendaPet.cs",
+              "RelativeDocumentMoniker": "Zooka\\AgendaPet.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\AgendaPet.cs",
+              "RelativeToolTip": "Zooka\\AgendaPet.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAEwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T00:08:08.371Z",
+              "WhenOpened": "2025-09-26T16:38:59.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgendaPet.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\AgendaPet.cs",
+              "RelativeDocumentMoniker": "Zooka\\AgendaPet.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\AgendaPet.cs [Projeto]",
+              "RelativeToolTip": "Zooka\\AgendaPet.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:38:55.967Z",
               "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\Program.cs",
+              "RelativeDocumentMoniker": "Zooka\\Program.cs",
+              "ToolTip": "C:\\Users\\henri\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\C#\\GitHub\\HEVA\\Zooka\\Zooka\\Program.cs",
+              "RelativeToolTip": "Zooka\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:54:49.658Z"
             }
           ]
         }

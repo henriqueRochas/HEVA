@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Zooka
 {
-    public partial class agendaPetShop : Form
+    public partial class UserControlBlank : UserControl
     {
-        public agendaPetShop()
+        public UserControlBlank()
         {
             InitializeComponent();
         }
